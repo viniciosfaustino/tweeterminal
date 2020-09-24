@@ -20,5 +20,4 @@ stamp = '#tweeterminal '
 
 tweet = sys.argv[1]
 final_tweet = stamp + tweet
-print(final_tweet)
-#api.update_status(final_tweet)
+api.update_status(final_tweet)
