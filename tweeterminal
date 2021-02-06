@@ -1,4 +1,0 @@
-#!/usr/bin/env zsh
-
-echo $(pwd)
-#conda run -n tweeterminal tweeterminal.py 
